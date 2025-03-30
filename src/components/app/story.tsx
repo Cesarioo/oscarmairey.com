@@ -117,7 +117,7 @@ export default function Story() {
                 Ive fell in love with crypto around 2020, fascinated by its potential to reshape financial systems and social structures. The combination of cryptography, game theory, and economic incentives opened my eyes to new possibilities for organizing human cooperation. 
               </p>
               <p className="text-foreground/80 leading-relaxed text-lg">
-                Now embracing deep tech as a whole, from crypto to artificial intelligence. These transformative technologies are not just tools - they're extensions of human capability that will fundamentally alter our relationship with reality. 
+                Now embracing deep tech as a whole, from crypto to artificial intelligence. These transformative technologies are not just tools - they are extensions of human capability that will fundamentally alter our relationship with reality. 
               </p>
             </div>
           </motion.div>
